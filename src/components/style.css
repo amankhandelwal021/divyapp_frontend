@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+  
+.tag {
+    text-align: center;
+}
+  
+.slick-slide img {
+    margin: auto;
+    width: 70%;
+    height: 70%;
+    border: none;
+}
